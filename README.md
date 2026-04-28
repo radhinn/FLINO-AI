@@ -35,3 +35,4 @@ Next Steps
 Status
 
 Active development — continuously improving conversation quality and intelligence.
+( Bulding FLINO AI using Lovable and its in Building phase )
